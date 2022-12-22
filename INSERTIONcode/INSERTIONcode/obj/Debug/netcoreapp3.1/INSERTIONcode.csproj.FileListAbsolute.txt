@@ -1,0 +1,12 @@
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\bin\Debug\netcoreapp3.1\INSERTIONcode.exe
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\bin\Debug\netcoreapp3.1\INSERTIONcode.deps.json
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\bin\Debug\netcoreapp3.1\INSERTIONcode.runtimeconfig.json
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\bin\Debug\netcoreapp3.1\INSERTIONcode.runtimeconfig.dev.json
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\bin\Debug\netcoreapp3.1\INSERTIONcode.dll
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\bin\Debug\netcoreapp3.1\INSERTIONcode.pdb
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\obj\Debug\netcoreapp3.1\INSERTIONcode.AssemblyInfoInputs.cache
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\obj\Debug\netcoreapp3.1\INSERTIONcode.AssemblyInfo.cs
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\obj\Debug\netcoreapp3.1\INSERTIONcode.csproj.CoreCompileInputs.cache
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\obj\Debug\netcoreapp3.1\INSERTIONcode.dll
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\obj\Debug\netcoreapp3.1\INSERTIONcode.pdb
+C:\Users\Mariem\source\repos\INSERTIONcode\INSERTIONcode\obj\Debug\netcoreapp3.1\INSERTIONcode.genruntimeconfig.cache
